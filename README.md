@@ -44,10 +44,10 @@ Welcome to my GitHub profile! I am an experienced marketer with deep knowledge i
 I am actively studying new trends and tools in digital marketing, including marketing automation and artificial intelligence.
 
 ## 💬 Ask Me About
-Conversion-focused traffic management and innovative strategies to scale campaigns effectively.
-A/B testing and split testing with dedicated budgets to optimize performance and maximize ROI.
-Building a lead generation department tailored to any niche, providing end-to-end solutions for traffic acquisition.
-Developing custom AI tools to address the specific challenges faced by business owners and managing directors, ensuring efficiency and scalability.
+- Conversion-focused traffic management and innovative strategies to scale campaigns effectively.
+- A/B testing and split testing with dedicated budgets to optimize performance and maximize ROI.
+- Building a lead generation department tailored to any niche, providing end-to-end solutions for traffic acquisition.
+- Developing custom AI tools to address the specific challenges faced by business owners and managing directors, ensuring efficiency and scalability.
 
 ## ⚡ Fun Fact
 
